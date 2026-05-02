@@ -3,7 +3,7 @@
 
 
 
-![Chart Preview](assets/chart_preview.png)
+![Chart Preview](assets/chart_preview.jpg)
 
 
 
