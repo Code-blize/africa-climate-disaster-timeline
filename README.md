@@ -2,6 +2,7 @@
 ### A data storytelling project across two SWD challenges
 
 ![Chart Preview](assets/chart_preview.jpg)
+![Chart Preview](assets/chart_review1.jpg)
 
 ---
 
